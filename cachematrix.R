@@ -1,7 +1,7 @@
 #########################################################################
 #
 #  This function creates four functions for setting and reading the
-#  cached Matrix and Matrix Iversion.
+#  cached Matrix and Matrix Inversion.
 #
 #########################################################################
 
